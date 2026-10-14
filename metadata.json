@@ -1,0 +1,6 @@
+{
+  "name": "Forever Yours - Birthday Love Celebration",
+  "description": "An intimate romantic birthday experience featuring a shared photo album, live countdown timer, ambient background music player, love letter vault, and interactive birthday cake wish ceremony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
